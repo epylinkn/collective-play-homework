@@ -19,9 +19,9 @@
     "gatsby"
   ],
   "license": "MIT",
-  "main": "n/a",
+  "main": "server.js",
   "scripts": {
-    "start": "gatsby serve",
+    "start": "node server.js",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
