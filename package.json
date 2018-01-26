@@ -4,10 +4,12 @@
   "version": "1.0.0",
   "author": "seventy-nine",
   "dependencies": {
+    "express": "^4.16.2",
     "gatsby": "^1.9.158",
     "gatsby-link": "^1.6.34",
     "gatsby-plugin-react-helmet": "^2.0.3",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "socket.io": "^2.0.4"
   },
   "engines": {
     "node": "^9.4.0",
